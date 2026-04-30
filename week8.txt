@@ -1,0 +1,9 @@
+Activity1
+q1
+Efficient storage and organisation of files ensure that research data can be easily retrieved, reduce the risk of data loss, and improve collaboration. When dealing with large and diverse datasets, proper organisation enhances consistency and traceability.
+q2
+Different types of data should be stored using appropriate methods. Literature and reports can be stored on cloud platforms (e.g., Google Drive), code and analysis files managed via GitHub, and raw data stored on secure servers or encrypted storage. Sensitive data (e.g., interviews and consent forms) should have restricted access controls to ensure privacy and security.
+
+acticity 2
+q1
+The research data is organised by type (literature, quantitative, qualitative, reports), and further structured into raw data, processed data, and analysis scripts to improve clarity and maintainability.
